@@ -24,5 +24,5 @@ This bot has no graphic interface. You need to prepare the league client on the 
 /!\ Since the S11 items and shop rework the bot is not working properly. 
 i have not and don't plan on fixing it since i don't really use it my goal was just to achieve it and it has been done. /!\
 
-Here is a video showing the bot in action: https://youtu.be/AMhiK5tkah8
+Here is videos showing the bot in action: https://youtu.be/AMhiK5tkah8 and https://youtu.be/5FuAp3yJMZo
 (i uploaded it with a 300Kb/s ADSL so you understand why the quality is so bad)
